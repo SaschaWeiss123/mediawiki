@@ -15,7 +15,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/Arrays",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/Arrays",
         "type": "git",
         "reference": "master"
       },
@@ -35,7 +35,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/mediawiki-extensions-BlueSpiceDistributionConnector.git",
+        "url": "https://github.com/hallowelt/mediawiki-extensions-BlueSpiceDistributionConnector.git",
         "type": "git",
         "reference": "master"
       },
@@ -55,7 +55,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/mediawiki-extensions-BlueSpiceEchoConnector.git",
+        "url": "https://github.com/hallowelt/mediawiki-extensions-BlueSpiceEchoConnector.git",
         "type": "git",
         "reference": "master"
       },
@@ -75,7 +75,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/BlueSpiceEditNotifyConnector",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceEditNotifyConnector",
         "type": "git",
         "reference": "master"
       },
@@ -95,7 +95,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/BlueSpiceExtensions",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceExtensions",
         "type": "git",
         "reference": "master"
       },
@@ -115,7 +115,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/BlueSpiceFoundation",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/BlueSpiceFoundation",
         "type": "git",
         "reference": "master"
       },
@@ -143,7 +143,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/mediawiki-extensions-BlueSpiceLdapAuthenticationConnector.git",
+        "url": "https://github.com/hallowelt/mediawiki-extensions-BlueSpiceLdapAuthenticationConnector.git",
         "type": "git",
         "reference": "master"
       },
@@ -163,7 +163,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/mediawiki-extensions-BlueSpiceUserMergeConnector.git",
+        "url": "https://github.com/hallowelt/mediawiki-extensions-BlueSpiceUserMergeConnector.git",
         "type": "git",
         "reference": "master"
       },
@@ -183,7 +183,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/CategoryTree",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTree",
         "type": "git",
         "reference": "master"
       },
@@ -203,7 +203,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/DynamicPageList.git",
+        "url": "https://github.com/hallowelt/DynamicPageList.git",
         "type": "git",
         "reference": "master"
       },
@@ -223,7 +223,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/Echo",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo",
         "type": "git",
         "reference": "master"
       },
@@ -243,7 +243,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/mediawiki-extensions-EditNotify.git",
+        "url": "https://github.com/hallowelt/mediawiki-extensions-EditNotify.git",
         "type": "git",
         "reference": "master"
       },
@@ -263,7 +263,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:HydraWiki/mediawiki-embedvideo.git",
+        "url": "https://github.com/HydraWiki/mediawiki-embedvideo.git",
         "type": "git",
         "reference": "master"
       },
@@ -283,7 +283,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/mediawiki-extensions-FilterSpecialPages.git",
+        "url": "https://github.com/hallowelt/mediawiki-extensions-FilterSpecialPages.git",
         "type": "git",
         "reference": "master"
       },
@@ -303,7 +303,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/HitCounters",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/HitCounters",
         "type": "git",
         "reference": "master"
       },
@@ -323,7 +323,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/mediawiki-extensions-ImageMapEdit.git",
+        "url": "https://github.com/hallowelt/mediawiki-extensions-ImageMapEdit.git",
         "type": "git",
         "reference": "master"
       },
@@ -343,7 +343,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "git@github.com:hallowelt/mediawiki-extensions-LdapAuthentication.git",
+        "url": "https://github.com/hallowelt/mediawiki-extensions-LdapAuthentication.git",
         "type": "git",
         "reference": "master"
       },
@@ -363,7 +363,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/Lockdown",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/Lockdown",
         "type": "git",
         "reference": "master"
       },
@@ -383,7 +383,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/MobileFrontend",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/MobileFrontend",
         "type": "git",
         "reference": "master"
       },
@@ -403,7 +403,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/Quiz",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/Quiz",
         "type": "git",
         "reference": "master"
       },
@@ -423,7 +423,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/RSS",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/RSS",
         "type": "git",
         "reference": "master"
       },
@@ -443,7 +443,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/SyntaxHighlight_GeSHi",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/SyntaxHighlight_GeSHi",
         "type": "git",
         "reference": "master"
       },
@@ -464,7 +464,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/TitleKey",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/TitleKey",
         "type": "git",
         "reference": "master"
       },
@@ -484,7 +484,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/UserFunctions",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/UserFunctions",
         "type": "git",
         "reference": "master"
       },
@@ -503,7 +503,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/UserMerge",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/UserMerge",
         "type": "git",
         "reference": "master"
       },
@@ -521,7 +521,7 @@
       "type": "mediawiki-extension",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/extensions/Variables",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/extensions/Variables",
         "type": "git",
         "reference": "master"
       },
@@ -539,7 +539,7 @@
       "type": "mediawiki-skin",
       "version": "dev-master",
       "source": {
-        "url": "ssh://{GERRIT_USERNAME}@gerrit.wikimedia.org:29418/mediawiki/skins/BlueSpiceSkin",
+        "url": "https://gerrit.wikimedia.org/r/mediawiki/skins/BlueSpiceSkin",
         "type": "git",
         "reference": "master"
       },
